@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**quinn5moli/quinn5moli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer in training who specializes in React.js and Node.js with experiential knowledge in many fields such as bioremediation, disaster response management, and most recently logistics. 
 
-Here are some ideas to get you started:
+Eager to apply the lessons from my past employment and them to the world of tech in order to contribute the mission of creating a more sustainable and equitable world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A generalist at heart who sees great value in the technology of smart contracts and quantum computing.
+
+A radical optimist who refuses to be smothered.
+
+- 🔭 I’m currently working on landing a job as a full stack web developer!
+- 🌱 I’m currently learning about the Polygon network and its autonomous sidechains.
+- 💬 Ask me about mycology and natural landmarks of the Pacific Northwest!
+- 📫 How to reach me: https://www.linkedin.com/in/quinn-molina/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have been to 3 World Cups and am obsessed with the beautiful game ⚽
+
